@@ -4,6 +4,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      mainfont: ["'Roboto Mono'", "monospace"],
+    }
   },
   plugins: [],
 }
