@@ -1,6 +1,5 @@
 import Hero from "./components/Hero";
 import Nav from "./components/Nav";
-import requests from "./components/Requests";
 
 function App() {
   return (

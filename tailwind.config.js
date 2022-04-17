@@ -8,5 +8,5 @@ module.exports = {
       mainfont: ["'Roboto Mono'", "monospace"],
     }
   },
-  plugins: [],
+  plugins: [require("tailwind-scrollbar-hide")],
 }
